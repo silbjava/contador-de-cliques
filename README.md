@@ -4,6 +4,7 @@ Este é um projeto simples desenvolvido para praticar os conceitos fundamentais 
 📝 Descrição do Projeto
 
 A aplicação consiste em uma interface básica contendo um contador numérico e um botão. Ao interagir com o botão, o estado do contador é atualizado em tempo real, refletindo o novo valor na tela. O projeto foi estruturado utilizando o Vite para um ambiente de desenvolvimento rápido e moderno.
+
 🛠️ Tecnologias Utilizadas
 
     * React: Biblioteca JavaScript para construção de interfaces.
