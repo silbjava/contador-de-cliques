@@ -1,16 +1,34 @@
-# React + Vite
+🚀 React Click Counter
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este é um projeto simples desenvolvido para praticar os conceitos fundamentais do React, como a criação de componentes funcionais, gerenciamento de estado com o hook useState e manipulação de eventos.
+📝 Descrição do Projeto
 
-Currently, two official plugins are available:
+A aplicação consiste em uma interface básica contendo um contador numérico e um botão. Ao interagir com o botão, o estado do contador é atualizado em tempo real, refletindo o novo valor na tela. O projeto foi estruturado utilizando o Vite para um ambiente de desenvolvimento rápido e moderno.
+🛠️ Tecnologias Utilizadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+    * React: Biblioteca JavaScript para construção de interfaces.
+    * Vite: Ferramenta de build extremamente rápida para projetos front-end.
+    * JavaScript (ES6+): Lógica de programação.
+    * CSS3: Estilização básica da interface.
 
-## React Compiler
+💡 Conceitos Praticados
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+    Componentes Funcionais: Estruturação do código em blocos reutilizáveis.
+    Hooks (useState): Gerenciamento do estado interno do componente para refletir mudanças na UI.
+    Event Handling: Captura do clique do usuário para disparar funções específicas.
 
-## Expanding the ESLint configuration
+🔧 Como Executar o Projeto
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+    Clone este repositório:
+    git clone https://github.com/seu-usuario/nome-do-repositorio.git
+
+    Acesse a pasta do projeto:
+    cd nome-do-projeto
+
+    Instale as dependências:
+    npm install
+
+    Inicie o servidor de desenvolvimento:
+    npm run dev
+
+    Abra o navegador no endereço indicado pelo terminal (geralmente http://localhost:5173).
